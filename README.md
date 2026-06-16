@@ -5,13 +5,14 @@ Welcome to my *GeeksforGeeks Solutions Repository* 👨‍💻
 This repository contains my *daily GeeksforGeeks (GFG) problem solutions*, uploaded consistently to maintain my coding streak, master core data structures, and sharpen my algorithmic thinking.
 
 ## 📊 Daily-Challenge
-| Streaks DAY :- 00 |
+| Streaks DAY :- 06 |
 
 ## 📊 Progress Tracker
 | *Difficulty* | *Solved* |
 | ----- | ----- |
-| School/Basic | 00 |
-| Easy | 00 |
+| School | 00 |
+| Basic | 04 |
+| Easy | 02 |
 | Medium | 00 |
 | Hard | 00 |
 
